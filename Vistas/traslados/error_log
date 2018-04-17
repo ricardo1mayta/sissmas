@@ -1,0 +1,79 @@
+[24-Mar-2018 11:52:17] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:53:07] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:53:10] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:53:14] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:02] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:03] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:04] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:05] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:05] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:06] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[24-Mar-2018 11:54:08] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/listarclientes.php on line 10
+[28-Mar-2018 10:06:14] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:14] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:14] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:14] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 16
+[28-Mar-2018 10:06:28] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:28] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:28] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:06:28] PHP Notice:  Undefined index:  idemp in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 10
+[28-Mar-2018 10:06:28] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 11
+[28-Mar-2018 10:06:28] PHP Notice:  Undefined index:  ar in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 12
+[28-Mar-2018 10:06:28] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 13
+[28-Mar-2018 10:06:28] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 28
+[28-Mar-2018 10:32:24] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:32:24] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:32:24] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:32:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:32:24] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 16
+[28-Mar-2018 10:33:57] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:33:57] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:33:57] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:33:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:33:57] PHP Notice:  Undefined index:  idemp in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 10
+[28-Mar-2018 10:33:57] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 11
+[28-Mar-2018 10:33:57] PHP Notice:  Undefined index:  ar in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 12
+[28-Mar-2018 10:33:57] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 13
+[28-Mar-2018 10:33:57] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 28
+[28-Mar-2018 10:34:01] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:34:01] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:34:01] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:34:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:34:01] PHP Notice:  Undefined index:  idemp in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 10
+[28-Mar-2018 10:34:01] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 11
+[28-Mar-2018 10:34:01] PHP Notice:  Undefined index:  ar in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 12
+[28-Mar-2018 10:34:01] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 13
+[28-Mar-2018 10:34:01] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 28
+[28-Mar-2018 15:38:37] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 15:38:45] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 15:38:50] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 15:38:51] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 15:38:52] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 15:39:46] PHP Parse error:  syntax error, unexpected $end in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 32
+[28-Mar-2018 10:43:39] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:43:39] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:43:39] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:43:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:43:39] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 16
+[28-Mar-2018 10:48:03] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:48:03] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:48:03] PHP Warning:  include(../../Modelo/ordenventa/ordenveta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:48:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../Modelo/ordenventa/ordenveta.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 4
+[28-Mar-2018 10:48:03] PHP Fatal error:  Class 'OrdenVenta' not found in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 16
+[28-Mar-2018 10:49:15] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/ordenventa/ordenventa.php on line 17
+[28-Mar-2018 10:51:28] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/ordenventa/ordenventa.php on line 17
+[28-Mar-2018 10:53:20] PHP Notice:  Undefined index:  idemp in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 10
+[28-Mar-2018 10:53:20] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 11
+[28-Mar-2018 10:53:20] PHP Notice:  Undefined index:  ar in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 12
+[28-Mar-2018 10:53:20] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 13
+[28-Mar-2018 10:53:20] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 29
+[28-Mar-2018 10:53:33] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 29
+[28-Mar-2018 10:54:56] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 29
+[28-Mar-2018 10:55:28] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/ordenventa/ordenventa.php on line 17
+[28-Mar-2018 10:56:27] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 29
+[28-Mar-2018 10:56:58] PHP Notice:  Undefined variable: us in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 24
+[28-Mar-2018 10:56:58] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 27
+[28-Mar-2018 11:17:31] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 27
+[28-Mar-2018 15:21:45] PHP Notice:  Undefined variable: mss in /home/perucell/public_html/sissmas/Vistas/traslados/pedidos.php on line 27

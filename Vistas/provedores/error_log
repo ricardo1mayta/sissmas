@@ -1,0 +1,56 @@
+[17-Aug-2017 21:20:46] PHP Fatal error:  Class 'Provedores' not found in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:27:08] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:27:08] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:27:08] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:28:09] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:28:09] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:28:09] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:28:14] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:28:14] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:28:14] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:29:11] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 6
+[17-Aug-2017 21:29:11] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:29:11] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:29:11] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:29:24] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:29:24] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:29:24] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:30:11] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:30:11] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:30:11] PHP Fatal error:  Call to a member function get_provedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:07] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:32:07] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:07] PHP Fatal error:  Call to a member function get_provedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:10] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:32:10] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:10] PHP Fatal error:  Call to a member function get_provedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:30] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:32:30] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:30] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:33] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:32:33] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:32:33] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:34:41] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:34:41] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:34:41] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:34:44] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:34:44] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:34:44] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:36:45] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:36:45] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:36:45] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:37:06] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:37:06] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:37:06] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:37:09] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 8
+[17-Aug-2017 21:37:09] PHP Notice:  Undefined variable: pro in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 21:37:09] PHP Fatal error:  Call to a member function get_allprovedores() on a non-object in /home/perucell/public_html/sissmas/Vistas/provedores/provedores.php on line 9
+[17-Aug-2017 22:16:47] PHP Fatal error:  Call to undefined method Provedores::ave_provedor() in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 14
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 6
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  nombre in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 7
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  ruc in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 8
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  direccion in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 9
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  telefono in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 10
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  correo in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 11
+[17-Aug-2017 22:17:18] PHP Notice:  Undefined index:  s in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 12
+[17-Aug-2017 22:17:18] PHP Fatal error:  Call to undefined method Provedores::ave_provedor() in /home/perucell/public_html/sissmas/Vistas/provedores/saveprovedores.php on line 14

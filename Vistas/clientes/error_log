@@ -1,0 +1,48 @@
+[17-Aug-2017 17:10:34] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:10:34] PHP Fatal error:  Unsupported operand types in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:18:57] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:18:57] PHP Fatal error:  Unsupported operand types in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  nombre in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 7
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  apellidos in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 8
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  ruc in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 9
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  direccion in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 10
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  telefono in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 11
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  correo in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 12
+[17-Aug-2017 17:19:40] PHP Notice:  Undefined index:  id in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 13
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  nombre in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 7
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  apellidos in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 8
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  ruc in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 9
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  direccion in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 10
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  telefono in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 11
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  correo in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 12
+[17-Aug-2017 17:19:51] PHP Notice:  Undefined index:  id in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 13
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  nombre in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 7
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  apellidos in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 8
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  ruc in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 9
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  direccion in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 10
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  telefono in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 11
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  correo in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 12
+[17-Aug-2017 17:20:28] PHP Notice:  Undefined index:  id in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 13
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  u in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 6
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  nombre in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 7
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  apellidos in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 8
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  ruc in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 9
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  direccion in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 10
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  telefono in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 11
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  correo in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 12
+[17-Aug-2017 17:21:27] PHP Notice:  Undefined index:  id in /home/perucell/public_html/sissmas/Vistas/clientes/updatecliente.php on line 13
+[17-Aug-2017 20:06:20] PHP Notice:  Undefined variable: elefono in /home/perucell/public_html/sissmas/Vistas/clientes/savecliente.php on line 15
+[17-Aug-2017 20:06:20] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:09:13] PHP Notice:  Undefined variable: elefono in /home/perucell/public_html/sissmas/Vistas/clientes/savecliente.php on line 15
+[17-Aug-2017 20:09:13] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:10:30] PHP Notice:  Undefined variable: elefono in /home/perucell/public_html/sissmas/Vistas/clientes/savecliente.php on line 15
+[17-Aug-2017 20:10:30] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:11:04] PHP Notice:  Undefined variable: elefono in /home/perucell/public_html/sissmas/Vistas/clientes/savecliente.php on line 15
+[17-Aug-2017 20:11:04] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:12:23] PHP Notice:  Undefined variable: elefono in /home/perucell/public_html/sissmas/Vistas/clientes/savecliente.php on line 15
+[17-Aug-2017 20:12:23] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:15:19] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19
+[17-Aug-2017 20:21:22] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/perucell/public_html/sissmas/Modelo/clientes/clientes.php on line 19

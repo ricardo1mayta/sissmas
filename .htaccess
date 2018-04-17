@@ -1,0 +1,54 @@
+<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|json|lock|swp)|~)$">
+    Order allow,deny
+    Deny from all
+    Satisfy All
+</FilesMatch>
+
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+RewriteEngine on
+
+RewriteRule ^$ index.php?view=login
+RewriteRule ^principal/$ index.php?view=principal
+RewriteRule ^user/$ index.php?view=user
+RewriteRule ^adminUsuarios/$ index.php?view=adminUsuarios
+RewriteRule ^listarUsuarios/$ index.php?view=listarUsuarios
+RewriteRule ^registrarUsuarios/$ index.php?view=registrarUsuarios
+RewriteRule ^registrarProductos/$ index.php?view=registrarProductos
+RewriteRule ^listarProductos/$ index.php?view=listarProductos
+RewriteRule ^listarClientes/$ index.php?view=listarClientes
+RewriteRule ^listarProvedores/$ index.php?view=listarProvedores
+RewriteRule ^registrarClientes/$ index.php?view=registrarClientes
+RewriteRule ^registrarProvedores/$ index.php?view=registrarProvedores
+RewriteRule ^registrarOrden/$ index.php?view=registrarOrden
+RewriteRule ^listarOrdenes/$ index.php?view=listarOrdenes
+RewriteRule ^listaPedidos/$ index.php?view=listaPedidos
+RewriteRule ^registrarPedidos/$ index.php?view=registrarPedidos
+RewriteRule ^registrarCompras/$ index.php?view=registrarCompras
+RewriteRule ^listarVentas/$ index.php?view=listarVentas
+RewriteRule ^listaCreditos/$ index.php?view=listaCreditos
+RewriteRule ^caja/$ index.php?view=caja
+RewriteRule ^listaPagos/$ index.php?view=listaPagos
+RewriteRule ^listaVentas/$ index.php?view=listaVentas
+RewriteRule ^listaDespacho/$ index.php?view=listaDespacho
+RewriteRule ^giaDespacho/$ index.php?view=giaDespacho
+RewriteRule ^giaRecepcion/$ index.php?view=giaRecepcion
+RewriteRule ^listaRecepcion/$ index.php?view=listaRecepcion
+RewriteRule ^cajalistaCompras/$ index.php?view=cajalistaCompras
+RewriteRule ^historialCompras/$ index.php?view=historialCompras
+RewriteRule ^historialVentas/$ index.php?view=historialVentas
+RewriteRule ^productoComprado/$ index.php?view=productoComprado
+RewriteRule ^reporteFinanciero/$ index.php?view=reporteFinanciero
+RewriteRule ^productoVendido/$ index.php?view=productoVendido
+RewriteRule ^listacreditoscompras/$ index.php?view=listacreditoscompras
+RewriteRule ^listaCompras/$ index.php?view=listaCompras
+RewriteRule ^listaPagosCompras/$ index.php?view=listaPagosCompras
+RewriteRule ^trasladosProductos/$ index.php?view=trasladosProductos
+RewriteRule ^stockProductos/$ index.php?view=stockProductos
+RewriteRule ^gastosVentas/$ index.php?view=gastosVentas
+RewriteRule ^devolucionesventas/$ index.php?view=devolucionesVentas
+
+##RewriteRule ^([a-zA-Z0-9-]*)/$ index.php?view=$0
